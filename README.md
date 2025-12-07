@@ -44,6 +44,21 @@ To create an interactive and visually appealing dashboard.
 
 
 
+**Key Insights**:
+
+Count of show id by type.
+
+First rating by country.
+
+count of show id by rating.
+
+count of show id by listed in.
+
+
+count of show id by release year and type.
+
+
+
 
 
 
