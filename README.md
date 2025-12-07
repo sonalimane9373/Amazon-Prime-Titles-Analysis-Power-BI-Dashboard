@@ -1,13 +1,16 @@
 **Title**-Amazon-Prime-Titles-Analysis-Power-BI-Dashboard**
 
-**Description**-Power BI dashboard analysing  Amazon prime titles including movies .shows insights on ratings, release trends, and country-wise distribution .
+**Description**-Power BI dashboard analysing  Amazon prime titles including movies and TV shows.shows insights on ratings, release trends, and country-wise distribution .
 
 **Overview** - This Power BI dashboard provides insights into amazon Prime titles ,including Movies and TV shows.
-It helps analyze categories, release trends,ratings, and content distrinution across different countries.
+It helps analyze categories, release trends,ratings, and content distribution across different countries.
 
 **Obective**-To explore Amazon Prime content data .
+
 To analyze the distribution of movies vs TV shows.
-To identify ratings.To find trends based on release year and country
+
+To identify ratings.To find trends based on release year and country.
+
 To create an interactive and visually appealing dashboard.
 
 **Dataset**-
@@ -19,23 +22,29 @@ To create an interactive and visually appealing dashboard.
 **Contains details like**:
 
 **Type** (Movie/TV shows)
+
 1.Show id
+
 2.Title
+
 3.Realease Year
+
 4.Country
+
 5.Rating
+
 6.Duration
 
 
 **Tools Used**
 
-**Power BI**-Data Cleaning ,Visualization
+**Power BI**-Data Cleaning ,Visualization.
 
-**PowerQuery**-Transormations
+**PowerQuery**-Transormations.
 
-**Excel/CSV**-Dataset
+**Excel/CSV**-Dataset.
 
-**Github**-Project Hosting
+**Github**-Project Hosting.
 
 **Dashboard Preview**:
 
@@ -54,8 +63,30 @@ count of show id by rating.
 
 count of show id by listed in.
 
-
 count of show id by release year and type.
+
+
+**Steps Performed**-
+
+1.Imported dataset into Power BI.
+
+2.Cleaned missing/duplicate values.
+
+3.Transformed columns in power query.
+
+4.Built various charts and visuals.
+
+5.Added filters and slicers.
+
+6.Designed final dashboard layout.
+
+
+**Conclusion**-
+
+This project helps understand Amazon Prime content distribution and viewer availability patterns.
+
+It demonstrates skills in data cleaning,analysis,and visualisation using Power BI.
+
 
 
 
